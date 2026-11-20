@@ -13,21 +13,40 @@
 ---
 
 ### 👨‍💻 About Me
-Senior Mechatronics Engineering student passionate about bridging mechanical design, embedded control, and autonomous robotics. Currently leading the development of a **5–7 DOF Smart Autonomous Surgical Robot** integrating ROS 2, MoveIt 2, STM32 firmware, and custom CAD mechanisms.
+Senior Mechatronics Engineering student with a multidisciplinary background spanning mechanical design, engineering simulation, electronics, embedded systems, robotics, and industrial automation. Focused on bridging hardware and software to build reliable, integrated engineering systems.
 
 ---
 
-### 🛠️ Technical Stack & Tools
-- **Robotics & Simulation:** ROS 2 (Jazzy), MoveIt 2, Gazebo, MATLAB / Simulink / Simscape
-- **Embedded & Programming:** C, C++, Python, STM32, Assembly (8086)
-- **Industrial Automation:** Siemens TIA Portal (PLC), Classic Control, VFD, Automation Studio
-- **CAD & Engineering Analysis:** SOLIDWORKS (CSWP Certified), ANSYS (Mechanical & Fluent), 3D Printing
+### 🛠️ Technical Skills & Tools
+
+* **CAD & Engineering Simulation**
+  * **3D CAD & Drafting:** SOLIDWORKS *(Part/Assembly, Sheet Metal, Weldments, Surfacing)*, AutoCAD, 3D Printing
+  * **FEA & CFD Analysis:** SOLIDWORKS Simulation & Flow Simulation (CFD), ANSYS *(Mechanical & Fluent)*
+
+* **Robotics, Modeling & Control**
+  * **Robotics Frameworks:** ROS 2
+  * **Modeling & Simulation:** MATLAB, Simulink, Simscape
+
+* **Embedded Systems & Programming**
+  * **Languages:** C, C++, Python, Assembly (x86)
+  * **Microcontrollers:** ESP32, Arduino
+
+* **Electronics & Industrial Automation**
+  * **Circuits & Simulation:** Analog & Digital Circuits, Proteus, Multisim
+  * **Industrial Control:** Siemens SIMATIC PLC *(TIA Portal / STEP 7)*, Classic Control Panels, Variable Frequency Drives (VFD), Automation Studio, Factory I/O
+
+* **Documentation & Productivity**
+  * Microsoft Office *(Word, Excel, PowerPoint)*
 
 ---
 
-### 🚀 Featured Projects
-| Project | Domain | Tech Stack | Repository |
-| :--- | :--- | :--- | :--- |
-| **Smart Autonomous Surgical Robot** | Robotics & Control | ROS 2, MoveIt 2, STM32, SOLIDWORKS | *Coming Soon* |
-| **8mm Surgical Tool Mechanism** | Mechanical Design | SOLIDWORKS, 3D Printing | *Coming Soon* |
-| **Embedded & Automation Labs** | Firmware & Control | C, STM32, TIA Portal | *Coming Soon* |
+### 🏆 Certifications
+* **Certified SOLIDWORKS Professional (CSWP)** — Dassault Systèmes
+* **Certified SOLIDWORKS Associate – Simulation (CSWA-S)** — Dassault Systèmes
+* **Certified SOLIDWORKS Associate – Additive Manufacturing (CSWA-AM)** — Dassault Systèmes
+* **Python & Intro to Machine Learning** — Kaggle
+
+---
+
+### 🚀 Projects
+> *Repositories are currently being organized and documented — projects coming soon.*
